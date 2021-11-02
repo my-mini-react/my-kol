@@ -1,1 +1,1 @@
-const ok = 'hello,world'
+const ok = 'hello,world';
